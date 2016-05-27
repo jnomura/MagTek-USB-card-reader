@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">USB Card Reader</string>
+    <string name="cr_state_disconnect">The USB card reader is disconnected.</string>
+    <string name="cr_state_error">There was an error trying to connect to the USB card reader.</string>
+    <string name="cr_state_disconnecting">Disconnecting USB card reader...</string>
+    <string name="cr_state_connecting">Connecting to USB card reader...</string>
+    <string name="cr_state_connected">The USB card reader is connected.</string>
+    <string name="cr_data_error">There was a card data error.</string>
+</resources>
